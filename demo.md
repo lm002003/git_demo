@@ -1,11 +1,10 @@
 ```{class=line-numbers}
-	/**
-	 * Creates an instance of {@code ReentrantLock}.
-	 * This is equivalent to using {@code ReentrantLock(false)}.
-         */
-	public ReentrantLock() {
-    	sync = new NonfairSync();
-	}
+import os
+import sys
+print sys.version
+for i in range(10):
+    print i
+print "-------End-------"  
 ```
 # Line1
 ## Line2
