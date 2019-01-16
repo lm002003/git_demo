@@ -1,13 +1,6 @@
-```
-{% codeblock %}
-import os
-import sys
-print sys.version
-for i in range(10):
-    print i
-print "-------End-------"  
+{% codeblock Time to be Awesome - awesome.rb %}
+puts "Awesome!" unless lame
 {% endcodeblock %}
-```
 # Line1
 ## Line2
 ### Line3
